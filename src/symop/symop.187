@@ -1,0 +1,13 @@
+P -6 M 2	12
+(X,Y,Z)
+(-Y,X-Y,Z)
+(Y-X,-X,Z)
+(X,Y,-Z)
+(-Y,X-Y,-Z)
+(Y-X,-X,-Z)
+(-Y,-X,Z)
+(Y-X,Y,Z)
+(X,X-Y,Z)
+(-Y,-X,-Z)
+(Y-X,Y,-Z)
+(X,X-Y,-Z)

@@ -1,0 +1,942 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 
+Crystallographic space groups.
+@author Ary Junior <a href="mailto:aryjunior@gmail.com">aryjunior@gmail.com</a>
+@version $Id: cryst-space-groups.xml,v 1.3 2008-10-02 19:10:57 aryjr Exp $
+-->
+
+<space-groups>
+    <space-group number="1" nsym="1">
+        <CNS-name>P1</CNS-name>
+        <PDB-name>P 1</PDB-name>
+    </space-group>
+    <space-group number="2" nsym="2">
+        <CNS-name>P-1</CNS-name>
+        <PDB-name>P -1</PDB-name>
+    </space-group>
+    <space-group number="3" nsym="2">
+        <CNS-name>P2</CNS-name>
+        <PDB-name>P 2</PDB-name>
+    </space-group>
+    <space-group number="4" nsym="2">
+        <CNS-name>P2(1)</CNS-name>
+        <PDB-name>P 21</PDB-name>
+    </space-group>
+    <space-group number="5" nsym="4">
+        <CNS-name>C2</CNS-name>
+        <PDB-name>C 2</PDB-name>
+    </space-group>
+    <space-group number="6" nsym="2">
+        <CNS-name>Pm</CNS-name>
+        <PDB-name>P M</PDB-name>
+    </space-group>
+    <space-group number="7" nsym="2">
+        <CNS-name>Pc</CNS-name>
+        <PDB-name>P C</PDB-name>
+    </space-group>
+    <space-group number="8" nsym="4">
+        <CNS-name>Cm</CNS-name>
+        <PDB-name>C M</PDB-name>
+    </space-group>
+    <space-group number="9" nsym="4">
+        <CNS-name>Cc</CNS-name>
+        <PDB-name>C C</PDB-name>
+    </space-group>
+    <space-group number="10" nsym="4">
+        <CNS-name>P2/m</CNS-name>
+        <PDB-name>P 2/M</PDB-name>
+    </space-group>
+    <space-group number="11" nsym="4">
+        <CNS-name>P2(1)/m</CNS-name>
+        <PDB-name>P 21/M</PDB-name>
+    </space-group>
+    <space-group number="12" nsym="8">
+        <CNS-name>C2/m</CNS-name>
+        <PDB-name>C 2/M</PDB-name>
+    </space-group>
+    <space-group number="13" nsym="4">
+        <CNS-name>P2/c</CNS-name>
+        <PDB-name>P 2/C</PDB-name>
+    </space-group>
+    <space-group number="14" nsym="4">
+        <CNS-name>P2(1)/c</CNS-name>
+        <PDB-name>P 21/C</PDB-name>
+    </space-group>
+    <space-group number="15" nsym="8">
+        <CNS-name>C2/c</CNS-name>
+        <PDB-name>C 2/C</PDB-name>
+    </space-group>
+    <space-group number="16" nsym="4">
+        <CNS-name>P222</CNS-name>
+        <PDB-name>P 2 2 2</PDB-name>
+    </space-group>
+    <space-group number="17" nsym="4">
+        <CNS-name>P222(1)</CNS-name>
+        <PDB-name>P 2 2 21</PDB-name>
+    </space-group>
+    <space-group number="18" nsym="4">
+        <CNS-name>P2(1)2(1)2</CNS-name>
+        <PDB-name>P 21 21 2</PDB-name>
+    </space-group>
+    <space-group number="19" nsym="4">
+        <CNS-name>P2(1)2(1)2(1)</CNS-name>
+        <PDB-name>P 21 21 21</PDB-name>
+    </space-group>
+    <space-group number="20" nsym="8">
+        <CNS-name>C222(1)</CNS-name>
+        <PDB-name>C 2 2 21</PDB-name>
+    </space-group>
+    <space-group number="21" nsym="8">
+        <CNS-name>C222</CNS-name>
+        <PDB-name>C 2 2 2</PDB-name>
+    </space-group>
+    <space-group number="22" nsym="16">
+        <CNS-name>F222</CNS-name>
+        <PDB-name>F 2 2 2</PDB-name>
+    </space-group>
+    <space-group number="23" nsym="8">
+        <CNS-name>I222</CNS-name>
+        <PDB-name>I 2 2 2</PDB-name>
+    </space-group>
+    <space-group number="24" nsym="8">
+        <CNS-name>I2(1)2(1)2(1)</CNS-name>
+        <PDB-name>I 21 21 21</PDB-name>
+    </space-group>
+    <space-group number="25" nsym="4">
+        <CNS-name>Pmm2</CNS-name>
+        <PDB-name>P M M 2</PDB-name>
+    </space-group>
+    <space-group number="26" nsym="4">
+        <CNS-name>Pmc2(1)</CNS-name>
+        <PDB-name>P M C 21</PDB-name>
+    </space-group>
+    <space-group number="27" nsym="4">
+        <CNS-name>Pcc2</CNS-name>
+        <PDB-name>P C C 2</PDB-name>
+    </space-group>
+    <space-group number="28" nsym="4">
+        <CNS-name>Pma2</CNS-name>
+        <PDB-name>P M A 2</PDB-name>
+    </space-group>
+    <space-group number="29" nsym="4">
+        <CNS-name>Pca2(1)</CNS-name>
+        <PDB-name>P C A 21</PDB-name>
+    </space-group>
+    <space-group number="30" nsym="4">
+        <CNS-name>Pnc2</CNS-name>
+        <PDB-name>P N C 2</PDB-name>
+    </space-group>
+    <space-group number="31" nsym="4">
+        <CNS-name>Pmn2(1)</CNS-name>
+        <PDB-name>P M N 21</PDB-name>
+    </space-group>
+    <space-group number="32" nsym="4">
+        <CNS-name>Pba2</CNS-name>
+        <PDB-name>P B A 2</PDB-name>
+    </space-group>
+    <space-group number="33" nsym="4">
+        <CNS-name>Pna2(1)</CNS-name>
+        <PDB-name>P N A 21</PDB-name>
+    </space-group>
+    <space-group number="34" nsym="4">
+        <CNS-name>Pnn2</CNS-name>
+        <PDB-name>P N N 2</PDB-name>
+    </space-group>
+    <space-group number="35" nsym="8">
+        <CNS-name>Cmm2</CNS-name>
+        <PDB-name>C M M 2</PDB-name>
+    </space-group>
+    <space-group number="36" nsym="8">
+        <CNS-name>Cmc2(1)</CNS-name>
+        <PDB-name>C M C 21</PDB-name>
+    </space-group>
+    <space-group number="37" nsym="8">
+        <CNS-name>Ccc2</CNS-name>
+        <PDB-name>C C C 2</PDB-name>
+    </space-group>
+    <space-group number="38" nsym="8">
+        <CNS-name>Amm2</CNS-name>
+        <PDB-name>A M M 2</PDB-name>
+    </space-group>
+    <space-group number="39" nsym="8">
+        <CNS-name>Abm2</CNS-name>
+        <PDB-name>A B M 2</PDB-name>
+    </space-group>
+    <space-group number="40" nsym="8">
+        <CNS-name>Ama2</CNS-name>
+        <PDB-name>A M A 2</PDB-name>
+    </space-group>
+    <space-group number="41" nsym="8">
+        <CNS-name>Aba2</CNS-name>
+        <PDB-name>A B A 2</PDB-name>
+    </space-group>
+    <space-group number="42" nsym="16">
+        <CNS-name>Fmm2</CNS-name>
+        <PDB-name>F M M 2</PDB-name>
+    </space-group>
+    <space-group number="43" nsym="16">
+        <CNS-name>Fdd2</CNS-name>
+        <PDB-name>F D D 2</PDB-name>
+    </space-group>
+    <space-group number="44" nsym="8">
+        <CNS-name>Imm2</CNS-name>
+        <PDB-name>I M M 2</PDB-name>
+    </space-group>
+    <space-group number="45" nsym="8">
+        <CNS-name>Iba2</CNS-name>
+        <PDB-name>I B A 2</PDB-name>
+    </space-group>
+    <space-group number="46" nsym="8">
+        <CNS-name>Ima2</CNS-name>
+        <PDB-name>I M A 2</PDB-name>
+    </space-group>
+    <space-group number="47" nsym="8">
+        <CNS-name>Pmmm</CNS-name>
+        <PDB-name>P M M M</PDB-name>
+    </space-group>
+    <space-group number="48" nsym="8">
+        <CNS-name>Pnnn</CNS-name>
+        <PDB-name>P N N N</PDB-name>
+    </space-group>
+    <space-group number="49" nsym="8">
+        <CNS-name>Pccm</CNS-name>
+        <PDB-name>P C C M</PDB-name>
+    </space-group>
+    <space-group number="50" nsym="8">
+        <CNS-name>Pban</CNS-name>
+        <PDB-name>P B A N</PDB-name>
+    </space-group>
+    <space-group number="51" nsym="8">
+        <CNS-name>Pmma</CNS-name>
+        <PDB-name>P M M A</PDB-name>
+    </space-group>
+    <space-group number="52" nsym="8">
+        <CNS-name>Pnna</CNS-name>
+        <PDB-name>P N N A</PDB-name>
+    </space-group>
+    <space-group number="53" nsym="8">
+        <CNS-name>Pmna</CNS-name>
+        <PDB-name>P M N A</PDB-name>
+    </space-group>
+    <space-group number="54" nsym="8">
+        <CNS-name>Pcca</CNS-name>
+        <PDB-name>P C C A</PDB-name>
+    </space-group>
+    <space-group number="55" nsym="8">
+        <CNS-name>Pbam</CNS-name>
+        <PDB-name>P B A M</PDB-name>
+    </space-group>
+    <space-group number="56" nsym="8">
+        <CNS-name>Pccn</CNS-name>
+        <PDB-name>P C C N</PDB-name>
+    </space-group>
+    <space-group number="57" nsym="8">
+        <CNS-name>Pbcm</CNS-name>
+        <PDB-name>P B C M</PDB-name>
+    </space-group>
+    <space-group number="58" nsym="8">
+        <CNS-name>Pnnm</CNS-name>
+        <PDB-name>P N N M</PDB-name>
+    </space-group>
+    <space-group number="59" nsym="8">
+        <CNS-name>Pmmn</CNS-name>
+        <PDB-name>P M M N</PDB-name>
+    </space-group>
+    <space-group number="60" nsym="8">
+        <CNS-name>Pbcn</CNS-name>
+        <PDB-name>P B C N</PDB-name>
+    </space-group>
+    <space-group number="61" nsym="8">
+        <CNS-name>Pbca</CNS-name>
+        <PDB-name>P B C A</PDB-name>
+    </space-group>
+    <space-group number="62" nsym="8">
+        <CNS-name>Pnma</CNS-name>
+        <PDB-name>P N M A</PDB-name>
+    </space-group>
+    <space-group number="63" nsym="16">
+        <CNS-name>Cmcm</CNS-name>
+        <PDB-name>C M C M</PDB-name>
+    </space-group>
+    <space-group number="64" nsym="16">
+        <CNS-name>Cmca</CNS-name>
+        <PDB-name>C M C A</PDB-name>
+    </space-group>
+    <space-group number="65" nsym="16">
+        <CNS-name>Cmmm</CNS-name>
+        <PDB-name>C M M M</PDB-name>
+    </space-group>
+    <space-group number="66" nsym="16">
+        <CNS-name>Cccm</CNS-name>
+        <PDB-name>C C C M</PDB-name>
+    </space-group>
+    <space-group number="67" nsym="16">
+        <CNS-name>Cmma</CNS-name>
+        <PDB-name>C M M A</PDB-name>
+    </space-group>
+    <space-group number="68" nsym="16">
+        <CNS-name>Ccca</CNS-name>
+        <PDB-name>C C C A</PDB-name>
+    </space-group>
+    <space-group number="69" nsym="32">
+        <CNS-name>Fmmm</CNS-name>
+        <PDB-name>F M M M</PDB-name>
+    </space-group>
+    <space-group number="70" nsym="32">
+        <CNS-name>Fddd</CNS-name>
+        <PDB-name>F D D D</PDB-name>
+    </space-group>
+    <space-group number="71" nsym="16">
+        <CNS-name>Immm</CNS-name>
+        <PDB-name>I M M M</PDB-name>
+    </space-group>
+    <space-group number="72" nsym="16">
+        <CNS-name>Ibam</CNS-name>
+        <PDB-name>I B A M</PDB-name>
+    </space-group>
+    <space-group number="73" nsym="16">
+        <CNS-name>Ibca</CNS-name>
+        <PDB-name>I B C A</PDB-name>
+    </space-group>
+    <space-group number="74" nsym="16">
+        <CNS-name>Imma</CNS-name>
+        <PDB-name>I M M A</PDB-name>
+    </space-group>
+    <space-group number="75" nsym="4">
+        <CNS-name>P4</CNS-name>
+        <PDB-name>P 4</PDB-name>
+    </space-group>
+    <space-group number="76" nsym="4">
+        <CNS-name>P4(1)</CNS-name>
+        <PDB-name>P 41</PDB-name>
+    </space-group>
+    <space-group number="77" nsym="4">
+        <CNS-name>P4(2)</CNS-name>
+        <PDB-name>P 42</PDB-name>
+    </space-group>
+    <space-group number="78" nsym="4">
+        <CNS-name>P4(3)</CNS-name>
+        <PDB-name>P 43</PDB-name>
+    </space-group>
+    <space-group number="79" nsym="8">
+        <CNS-name>I4</CNS-name>
+        <PDB-name>I 4</PDB-name>
+    </space-group>
+    <space-group number="80" nsym="8">
+        <CNS-name>I4(1)</CNS-name>
+        <PDB-name>I 41</PDB-name>
+    </space-group>
+    <space-group number="81" nsym="4">
+        <CNS-name>P-4</CNS-name>
+        <PDB-name>P -4</PDB-name>
+    </space-group>
+    <space-group number="82" nsym="8">
+        <CNS-name>I-4</CNS-name>
+        <PDB-name>I -4</PDB-name>
+    </space-group>
+    <space-group number="83" nsym="8">
+        <CNS-name>P4/m</CNS-name>
+        <PDB-name>P 4/M</PDB-name>
+    </space-group>
+    <space-group number="84" nsym="8">
+        <CNS-name>P4(2)/m</CNS-name>
+        <PDB-name>P 42/M</PDB-name>
+    </space-group>
+    <space-group number="85" nsym="8">
+        <CNS-name>P4/n</CNS-name>
+        <PDB-name>P 4/N</PDB-name>
+    </space-group>
+    <space-group number="86" nsym="8">
+        <CNS-name>P4(2)/n</CNS-name>
+        <PDB-name>P 42/N</PDB-name>
+    </space-group>
+    <space-group number="87" nsym="16">
+        <CNS-name>I4/m</CNS-name>
+        <PDB-name>I 4/M</PDB-name>
+    </space-group>
+    <space-group number="88" nsym="16">
+        <CNS-name>I4(1)/a</CNS-name>
+        <PDB-name>I 41/A</PDB-name>
+    </space-group>
+    <space-group number="89" nsym="8">
+        <CNS-name>P422</CNS-name>
+        <PDB-name>P 4 2 2</PDB-name>
+    </space-group>
+    <space-group number="90" nsym="8">
+        <CNS-name>P42(1)2</CNS-name>
+        <PDB-name>P 4 21 2</PDB-name>
+    </space-group>
+    <space-group number="91" nsym="8">
+        <CNS-name>P4(1)22</CNS-name>
+        <PDB-name>P 41 2 2</PDB-name>
+    </space-group>
+    <space-group number="92" nsym="8">
+        <CNS-name>P4(1)2(1)2</CNS-name>
+        <PDB-name>P 41 21 2</PDB-name>
+    </space-group>
+    <space-group number="93" nsym="8">
+        <CNS-name>P4(2)22</CNS-name>
+        <PDB-name>P 42 2 2</PDB-name>
+    </space-group>
+    <space-group number="94" nsym="8">
+        <CNS-name>P4(2)2(1)2</CNS-name>
+        <PDB-name>P 42 21 2</PDB-name>
+    </space-group>
+    <space-group number="95" nsym="8">
+        <CNS-name>P4(3)22</CNS-name>
+        <PDB-name>P 43 2 2</PDB-name>
+    </space-group>
+    <space-group number="96" nsym="8">
+        <CNS-name>P4(3)2(1)2</CNS-name>
+        <PDB-name>P 43 21 2</PDB-name>
+    </space-group>
+    <space-group number="97" nsym="16">
+        <CNS-name>I422</CNS-name>
+        <PDB-name>I 4 2 2</PDB-name>
+    </space-group>
+    <space-group number="98" nsym="16">
+        <CNS-name>I4(1)22</CNS-name>
+        <PDB-name>I 41 2 2</PDB-name>
+    </space-group>
+    <space-group number="99" nsym="8">
+        <CNS-name>P4mm</CNS-name>
+        <PDB-name>P 4 M M</PDB-name>
+    </space-group>
+    <space-group number="100" nsym="8">
+        <CNS-name>P4bm</CNS-name>
+        <PDB-name>P 4 B M</PDB-name>
+    </space-group>
+    <space-group number="101" nsym="8">
+        <CNS-name>P4(2)cm</CNS-name>
+        <PDB-name>P 42 C M</PDB-name>
+    </space-group>
+    <space-group number="102" nsym="8">
+        <CNS-name>P4(2)nm</CNS-name>
+        <PDB-name>P 42 N M</PDB-name>
+    </space-group>
+    <space-group number="103" nsym="8">
+        <CNS-name>P4cc</CNS-name>
+        <PDB-name>P 4 C C</PDB-name>
+    </space-group>
+    <space-group number="104" nsym="8">
+        <CNS-name>P4nc</CNS-name>
+        <PDB-name>P 4 N C</PDB-name>
+    </space-group>
+    <space-group number="105" nsym="8">
+        <CNS-name>P4(2)mc</CNS-name>
+        <PDB-name>P 42 M C</PDB-name>
+    </space-group>
+    <space-group number="106" nsym="8">
+        <CNS-name>P4(2)bc</CNS-name>
+        <PDB-name>P 42 B C</PDB-name>
+    </space-group>
+    <space-group number="107" nsym="16">
+        <CNS-name>I4mm</CNS-name>
+        <PDB-name>I 4 M M</PDB-name>
+    </space-group>
+    <space-group number="108" nsym="16">
+        <CNS-name>I4cm</CNS-name>
+        <PDB-name>I 4 C M</PDB-name>
+    </space-group>
+    <space-group number="109" nsym="16">
+        <CNS-name>I4(1)md</CNS-name>
+        <PDB-name>I 41 M D</PDB-name>
+    </space-group>
+    <space-group number="110" nsym="16">
+        <CNS-name>I4(1)cd</CNS-name>
+        <PDB-name>I 41 C D</PDB-name>
+    </space-group>
+    <space-group number="111" nsym="8">
+        <CNS-name>P-42m</CNS-name>
+        <PDB-name>P -4 2 M</PDB-name>
+    </space-group>
+    <space-group number="112" nsym="8">
+        <CNS-name>P-42c</CNS-name>
+        <PDB-name>P -4 2 C</PDB-name>
+    </space-group>
+    <space-group number="113" nsym="8">
+        <CNS-name>P-42(1)m</CNS-name>
+        <PDB-name>P -4 21 M</PDB-name>
+    </space-group>
+    <space-group number="114" nsym="8">
+        <CNS-name>P-42(1)c</CNS-name>
+        <PDB-name>P -4 21 C</PDB-name>
+    </space-group>
+    <space-group number="115" nsym="8">
+        <CNS-name>P-4m2</CNS-name>
+        <PDB-name>P -4 M 2</PDB-name>
+    </space-group>
+    <space-group number="116" nsym="8">
+        <CNS-name>P-4c2</CNS-name>
+        <PDB-name>P -4 C 2</PDB-name>
+    </space-group>
+    <space-group number="117" nsym="8">
+        <CNS-name>P-4b2</CNS-name>
+        <PDB-name>P -4 B 2</PDB-name>
+    </space-group>
+    <space-group number="118" nsym="8">
+        <CNS-name>P-4n2</CNS-name>
+        <PDB-name>P -4 N 2</PDB-name>
+    </space-group>
+    <space-group number="119" nsym="16">
+        <CNS-name>I-4m2</CNS-name>
+        <PDB-name>I -4 M 2</PDB-name>
+    </space-group>
+    <space-group number="120" nsym="16">
+        <CNS-name>I-4c2</CNS-name>
+        <PDB-name>I -4 C 2</PDB-name>
+    </space-group>
+    <space-group number="121" nsym="16">
+        <CNS-name>I-42m</CNS-name>
+        <PDB-name>I -4 2 M</PDB-name>
+    </space-group>
+    <space-group number="122" nsym="16">
+        <CNS-name>I-42d</CNS-name>
+        <PDB-name>I -4 2 D</PDB-name>
+    </space-group>
+    <space-group number="123" nsym="16">
+        <CNS-name>P4/mmm</CNS-name>
+        <PDB-name>P 4/M M M</PDB-name>
+    </space-group>
+    <space-group number="124" nsym="16">
+        <CNS-name>P4/mcc</CNS-name>
+        <PDB-name>P 4/M C C</PDB-name>
+    </space-group>
+    <space-group number="125" nsym="16">
+        <CNS-name>P4/nbm</CNS-name>
+        <PDB-name>P 4/N B M</PDB-name>
+    </space-group>
+    <space-group number="126" nsym="16">
+        <CNS-name>P4/nnc</CNS-name>
+        <PDB-name>P 4/N N C</PDB-name>
+    </space-group>
+    <space-group number="127" nsym="16">
+        <CNS-name>P4/mbm</CNS-name>
+        <PDB-name>P 4/M B M</PDB-name>
+    </space-group>
+    <space-group number="128" nsym="16">
+        <CNS-name>P4/mnc</CNS-name>
+        <PDB-name>P 4/M N C</PDB-name>
+    </space-group>
+    <space-group number="129" nsym="16">
+        <CNS-name>P4/nmm</CNS-name>
+        <PDB-name>P 4/N M M</PDB-name>
+    </space-group>
+    <space-group number="130" nsym="16">
+        <CNS-name>P4/ncc</CNS-name>
+        <PDB-name>P 4/N C C</PDB-name>
+    </space-group>
+    <space-group number="131" nsym="16">
+        <CNS-name>P4(2)/mmc</CNS-name>
+        <PDB-name>P 42/M M C</PDB-name>
+    </space-group>
+    <space-group number="132" nsym="16">
+        <CNS-name>P4(2)/mcm</CNS-name>
+        <PDB-name>P 42/M C M</PDB-name>
+    </space-group>
+    <space-group number="133" nsym="16">
+        <CNS-name>P4(2)/nbc</CNS-name>
+        <PDB-name>P 42/N B C</PDB-name>
+    </space-group>
+    <space-group number="134" nsym="16">
+        <CNS-name>P4(2)/nnm</CNS-name>
+        <PDB-name>P 42/N N M</PDB-name>
+    </space-group>
+    <space-group number="135" nsym="16">
+        <CNS-name>P4(2)/mbc</CNS-name>
+        <PDB-name>P 42/M B C</PDB-name>
+    </space-group>
+    <space-group number="136" nsym="16">
+        <CNS-name>P4(2)/mnm</CNS-name>
+        <PDB-name>P 42/M N M</PDB-name>
+    </space-group>
+    <space-group number="137" nsym="16">
+        <CNS-name>P4(2)/nmc</CNS-name>
+        <PDB-name>P 42/N M C</PDB-name>
+    </space-group>
+    <space-group number="138" nsym="16">
+        <CNS-name>P4(2)/ncm</CNS-name>
+        <PDB-name>P 42/N C M</PDB-name>
+    </space-group>
+    <space-group number="139" nsym="32">
+        <CNS-name>I4/mmm</CNS-name>
+        <PDB-name>I 4/M M M</PDB-name>
+    </space-group>
+    <space-group number="140" nsym="32">
+        <CNS-name>I4/mcm</CNS-name>
+        <PDB-name>I 4/M C M</PDB-name>
+    </space-group>
+    <space-group number="141" nsym="32">
+        <CNS-name>I4(1)/amd</CNS-name>
+        <PDB-name>I 41/A M D</PDB-name>
+    </space-group>
+    <space-group number="142" nsym="32">
+        <CNS-name>I4(1)/acd</CNS-name>
+        <PDB-name>I 41/A C D</PDB-name>
+    </space-group>
+    <space-group number="143" nsym="3">
+        <CNS-name>P3</CNS-name>
+        <PDB-name>P 3</PDB-name>
+    </space-group>
+    <space-group number="144" nsym="3">
+        <CNS-name>P3(1)</CNS-name>
+        <PDB-name>P 31</PDB-name>
+    </space-group>
+    <space-group number="145" nsym="3">
+        <CNS-name>P3(2)</CNS-name>
+        <PDB-name>P 32</PDB-name>
+    </space-group>
+    <space-group number="146" nsym="9">
+        <CNS-name>R3</CNS-name>
+        <PDB-name>R 3</PDB-name>
+    </space-group>
+    <space-group number="147" nsym="6">
+        <CNS-name>P-3</CNS-name>
+        <PDB-name>P -3</PDB-name>
+    </space-group>
+    <space-group number="148" nsym="18">
+        <CNS-name>R-3</CNS-name>
+        <PDB-name>R -3</PDB-name>
+    </space-group>
+    <space-group number="149" nsym="6">
+        <CNS-name>P312</CNS-name>
+        <PDB-name>P 3 1 2</PDB-name>
+    </space-group>
+    <space-group number="150" nsym="6">
+        <CNS-name>P321</CNS-name>
+        <PDB-name>P 3 2 1</PDB-name>
+    </space-group>
+    <space-group number="151" nsym="6">
+        <CNS-name>P3(1)12</CNS-name>
+        <PDB-name>P 31 1 2</PDB-name>
+    </space-group>
+    <space-group number="152" nsym="6">
+        <CNS-name>P3(1)21</CNS-name>
+        <PDB-name>P 31 2 1</PDB-name>
+    </space-group>
+    <space-group number="153" nsym="6">
+        <CNS-name>P3(2)12</CNS-name>
+        <PDB-name>P 32 1 2</PDB-name>
+    </space-group>
+    <space-group number="154" nsym="6">
+        <CNS-name>P3(2)21</CNS-name>
+        <PDB-name>P 32 2 1</PDB-name>
+    </space-group>
+    <space-group number="155" nsym="18">
+        <CNS-name>R32</CNS-name>
+        <PDB-name>R 3 2</PDB-name>
+    </space-group>
+    <space-group number="156" nsym="6">
+        <CNS-name>P3m1</CNS-name>
+        <PDB-name>P 3 M 1</PDB-name>
+    </space-group>
+    <space-group number="157" nsym="6">
+        <CNS-name>P31m</CNS-name>
+        <PDB-name>P 3 1 M</PDB-name>
+    </space-group>
+    <space-group number="158" nsym="6">
+        <CNS-name>P3c1</CNS-name>
+        <PDB-name>P 3 C 1</PDB-name>
+    </space-group>
+    <space-group number="159" nsym="6">
+        <CNS-name>P31c</CNS-name>
+        <PDB-name>P 3 1 C</PDB-name>
+    </space-group>
+    <space-group number="160" nsym="18">
+        <CNS-name>R3m</CNS-name>
+        <PDB-name>R 3 M</PDB-name>
+    </space-group>
+    <space-group number="161" nsym="18">
+        <CNS-name>R3c</CNS-name>
+        <PDB-name>R 3 C</PDB-name>
+    </space-group>
+    <space-group number="162" nsym="12">
+        <CNS-name>P-31m</CNS-name>
+        <PDB-name>P -3 1 M</PDB-name>
+    </space-group>
+    <space-group number="163" nsym="12">
+        <CNS-name>P-31c</CNS-name>
+        <PDB-name>P -3 1 C</PDB-name>
+    </space-group>
+    <space-group number="164" nsym="12">
+        <CNS-name>P-3m1</CNS-name>
+        <PDB-name>P -3 M 1</PDB-name>
+    </space-group>
+    <space-group number="165" nsym="12">
+        <CNS-name>P-3c1</CNS-name>
+        <PDB-name>P -3 C 1</PDB-name>
+    </space-group>
+    <space-group number="166" nsym="36">
+        <CNS-name>R-3m</CNS-name>
+        <PDB-name>R -3 M</PDB-name>
+    </space-group>
+    <space-group number="167" nsym="36">
+        <CNS-name>R-3c</CNS-name>
+        <PDB-name>R -3 C</PDB-name>
+    </space-group>
+    <space-group number="168" nsym="6">
+        <CNS-name>P6</CNS-name>
+        <PDB-name>P 6</PDB-name>
+    </space-group>
+    <space-group number="169" nsym="6">
+        <CNS-name>P6(1)</CNS-name>
+        <PDB-name>P 61</PDB-name>
+    </space-group>
+    <space-group number="170" nsym="6">
+        <CNS-name>P6(5)</CNS-name>
+        <PDB-name>P 65</PDB-name>
+    </space-group>
+    <space-group number="171" nsym="6">
+        <CNS-name>P6(2)</CNS-name>
+        <PDB-name>P 62</PDB-name>
+    </space-group>
+    <space-group number="172" nsym="6">
+        <CNS-name>P6(4)</CNS-name>
+        <PDB-name>P 64</PDB-name>
+    </space-group>
+    <space-group number="173" nsym="6">
+        <CNS-name>P6(3)</CNS-name>
+        <PDB-name>P 63</PDB-name>
+    </space-group>
+    <space-group number="174" nsym="6">
+        <CNS-name>P-6</CNS-name>
+        <PDB-name>P -6</PDB-name>
+    </space-group>
+    <space-group number="175" nsym="12">
+        <CNS-name>P6/m</CNS-name>
+        <PDB-name>P 6/M</PDB-name>
+    </space-group>
+    <space-group number="176" nsym="12">
+        <CNS-name>P6(3)/m</CNS-name>
+        <PDB-name>P 63/M</PDB-name>
+    </space-group>
+    <space-group number="177" nsym="12">
+        <CNS-name>P622</CNS-name>
+        <PDB-name>P 6 2 2</PDB-name>
+    </space-group>
+    <space-group number="178" nsym="12">
+        <CNS-name>P6(1)22</CNS-name>
+        <PDB-name>P 61 2 2</PDB-name>
+    </space-group>
+    <space-group number="179" nsym="12">
+        <CNS-name>P6(5)22</CNS-name>
+        <PDB-name>P 65 2 2</PDB-name>
+    </space-group>
+    <space-group number="180" nsym="12">
+        <CNS-name>P6(2)22</CNS-name>
+        <PDB-name>P 62 2 2</PDB-name>
+    </space-group>
+    <space-group number="181" nsym="12">
+        <CNS-name>P6(4)22</CNS-name>
+        <PDB-name>P 64 2 2</PDB-name>
+    </space-group>
+    <space-group number="182" nsym="12">
+        <CNS-name>P6(3)22</CNS-name>
+        <PDB-name>P 63 2 2</PDB-name>
+    </space-group>
+    <space-group number="183" nsym="12">
+        <CNS-name>P6mm</CNS-name>
+        <PDB-name>P 6 M M</PDB-name>
+    </space-group>
+    <space-group number="184" nsym="12">
+        <CNS-name>P6cc</CNS-name>
+        <PDB-name>P 6 C C</PDB-name>
+    </space-group>
+    <space-group number="185" nsym="12">
+        <CNS-name>P6(3)cm</CNS-name>
+        <PDB-name>P 63 C M</PDB-name>
+    </space-group>
+    <space-group number="186" nsym="12">
+        <CNS-name>P6(3)mc</CNS-name>
+        <PDB-name>P 63 M C</PDB-name>
+    </space-group>
+    <space-group number="187" nsym="12">
+        <CNS-name>P-6m2</CNS-name>
+        <PDB-name>P -6 M 2</PDB-name>
+    </space-group>
+    <space-group number="188" nsym="12">
+        <CNS-name>P-6c2</CNS-name>
+        <PDB-name>P -6 C 2</PDB-name>
+    </space-group>
+    <space-group number="189" nsym="12">
+        <CNS-name>P-62m</CNS-name>
+        <PDB-name>P -6 2 M</PDB-name>
+    </space-group>
+    <space-group number="190" nsym="12">
+        <CNS-name>P-62c</CNS-name>
+        <PDB-name>P -6 2 C</PDB-name>
+    </space-group>
+    <space-group number="191" nsym="24">
+        <CNS-name>P6/mmm</CNS-name>
+        <PDB-name>P 6/M M M</PDB-name>
+    </space-group>
+    <space-group number="192" nsym="24">
+        <CNS-name>P6/mcc</CNS-name>
+        <PDB-name>P 6/M C C</PDB-name>
+    </space-group>
+    <space-group number="193" nsym="24">
+        <CNS-name>P6(3)/mcm</CNS-name>
+        <PDB-name>P 63/M C M</PDB-name>
+    </space-group>
+    <space-group number="194" nsym="24">
+        <CNS-name>P6(3)/mmc</CNS-name>
+        <PDB-name>P 63/M M C</PDB-name>
+    </space-group>
+    <space-group number="195" nsym="12">
+        <CNS-name>P23</CNS-name>
+        <PDB-name>P 2 3</PDB-name>
+    </space-group>
+    <space-group number="196" nsym="48">
+        <CNS-name>F23</CNS-name>
+        <PDB-name>F 2 3</PDB-name>
+    </space-group>
+    <space-group number="197" nsym="24">
+        <CNS-name>I23</CNS-name>
+        <PDB-name>I 2 3</PDB-name>
+    </space-group>
+    <space-group number="198" nsym="12">
+        <CNS-name>P2(1)3</CNS-name>
+        <PDB-name>P 21 3</PDB-name>
+    </space-group>
+    <space-group number="199" nsym="24">
+        <CNS-name>I2(1)3</CNS-name>
+        <PDB-name>I 21 3</PDB-name>
+    </space-group>
+    <space-group number="200" nsym="24">
+        <CNS-name>Pm-3</CNS-name>
+        <PDB-name>P M -3</PDB-name>
+    </space-group>
+    <space-group number="201" nsym="24">
+        <CNS-name>Pn-3</CNS-name>
+        <PDB-name>P N -3</PDB-name>
+    </space-group>
+    <space-group number="202" nsym="96">
+        <CNS-name>Fm-3</CNS-name>
+        <PDB-name>F M -3</PDB-name>
+    </space-group>
+    <space-group number="203" nsym="96">
+        <CNS-name>Fd-3</CNS-name>
+        <PDB-name>F D -3</PDB-name>
+    </space-group>
+    <space-group number="204" nsym="48">
+        <CNS-name>Im-3</CNS-name>
+        <PDB-name>I M -3</PDB-name>
+    </space-group>
+    <space-group number="205" nsym="24">
+        <CNS-name>Pa-3</CNS-name>
+        <PDB-name>P A -3</PDB-name>
+    </space-group>
+    <space-group number="206" nsym="48">
+        <CNS-name>Ia-3</CNS-name>
+        <PDB-name>I A -3</PDB-name>
+    </space-group>
+    <space-group number="207" nsym="24">
+        <CNS-name>P432</CNS-name>
+        <PDB-name>P 4 3 2</PDB-name>
+    </space-group>
+    <space-group number="208" nsym="24">
+        <CNS-name>P4(2)32</CNS-name>
+        <PDB-name>P 42 3 2</PDB-name>
+    </space-group>
+    <space-group number="209" nsym="96">
+        <CNS-name>F432</CNS-name>
+        <PDB-name>F 4 3 2</PDB-name>
+    </space-group>
+    <space-group number="210" nsym="96">
+        <CNS-name>F4(1)32</CNS-name>
+        <PDB-name>F 41 3 2</PDB-name>
+    </space-group>
+    <space-group number="211" nsym="48">
+        <CNS-name>I432</CNS-name>
+        <PDB-name>I 4 3 2</PDB-name>
+    </space-group>
+    <space-group number="212" nsym="24">
+        <CNS-name>P4(3)32</CNS-name>
+        <PDB-name>P 43 3 2</PDB-name>
+    </space-group>
+    <space-group number="213" nsym="24">
+        <CNS-name>P4(1)32</CNS-name>
+        <PDB-name>P 41 3 2</PDB-name>
+    </space-group>
+    <space-group number="214" nsym="48">
+        <CNS-name>I4(1)32</CNS-name>
+        <PDB-name>I 41 3 2</PDB-name>
+    </space-group>
+    <space-group number="215" nsym="24">
+        <CNS-name>P-43m</CNS-name>
+        <PDB-name>P -4 3 M</PDB-name>
+    </space-group>
+    <space-group number="216" nsym="96">
+        <CNS-name>F4-3m</CNS-name>
+        <PDB-name>F 4 -3 M</PDB-name>
+    </space-group>
+    <space-group number="217" nsym="48">
+        <CNS-name>I-43m</CNS-name>
+        <PDB-name>I -4 3 M</PDB-name>
+    </space-group>
+    <space-group number="218" nsym="24">
+        <CNS-name>P-43n</CNS-name>
+        <PDB-name>P -4 3 N</PDB-name>
+    </space-group>
+    <space-group number="219" nsym="96">
+        <CNS-name>F-43c</CNS-name>
+        <PDB-name>F -4 3 C</PDB-name>
+    </space-group>
+    <space-group number="220" nsym="48">
+        <CNS-name>I-43d</CNS-name>
+        <PDB-name>I -4 3 D</PDB-name>
+    </space-group>
+    <space-group number="221" nsym="48">
+        <CNS-name>Pm-3m</CNS-name>
+        <PDB-name>P M -3 M</PDB-name>
+    </space-group>
+    <space-group number="222" nsym="48">
+        <CNS-name>Pn-3n</CNS-name>
+        <PDB-name>P N -3 N</PDB-name>
+    </space-group>
+    <space-group number="223" nsym="48">
+        <CNS-name>Pm-3n</CNS-name>
+        <PDB-name>P M -3 N</PDB-name>
+    </space-group>
+    <space-group number="224" nsym="48">
+        <CNS-name>Pn-3m</CNS-name>
+        <PDB-name>P N -3 M</PDB-name>
+    </space-group>
+    <space-group number="225" nsym="192">
+        <CNS-name>Fm-3m</CNS-name>
+        <PDB-name>F M -3 M</PDB-name>
+    </space-group>
+    <space-group number="226" nsym="192">
+        <CNS-name>Fm-3c</CNS-name>
+        <PDB-name>F M -3 C</PDB-name>
+    </space-group>
+    <space-group number="227" nsym="192">
+        <CNS-name>Fd-3m</CNS-name>
+        <PDB-name>F D -3 M</PDB-name>
+    </space-group>
+    <space-group number="228" nsym="192">
+        <CNS-name>Fd-3c</CNS-name>
+        <PDB-name>F D -3 C</PDB-name>
+    </space-group>
+    <space-group number="229" nsym="96">
+        <CNS-name>Im-3m</CNS-name>
+        <PDB-name>I M -3 M</PDB-name>
+    </space-group>
+    <space-group number="230" nsym="96">
+        <CNS-name>Ia-3d</CNS-name>
+        <PDB-name>I A -3 D</PDB-name>
+    </space-group>
+    <!-- Other space groups -->
+    <space-group number="231" nsym="4">
+        <CNS-name>P2(1)/n</CNS-name>
+        <PDB-name>P 21/N</PDB-name>
+    </space-group>
+</space-groups>
+<!-- 
+$Log: cryst-space-groups.xml,v $
+Revision 1.3  2008-10-02 19:10:57  aryjr
+Keyword Log no final dos arquivos.
+
+
+-->

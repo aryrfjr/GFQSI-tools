@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 
+Chemistry elements 
+@author Ary Junior <a href="mailto:aryjunior@gmail.com">aryjunior@gmail.com</a>
+@version $Id: elements.xml,v 1.4 2009-03-10 18:39:52 aryjr Exp $
+-->
+
+<elements>
+    <element name="Hydrogen" z="1" symbol="H" weight="1.01" />
+    <element name="Deuterium" z="1" symbol="D" weight="2.01355" />
+    <element name="Helium" z="2" symbol="He" weight="4.00" />
+    <element name="Lithium" z="3" symbol="Li" weight="6.94" />
+    <element name="Beryllium" z="4" symbol="Be" weight="9.01" />
+    <element name="Boron" z="5" symbol="B" weight="10.81" />
+    <element name="Carbon" z="6" symbol="C" weight="12.01" />
+    <element name="Nitrogen" z="7" symbol="N" weight="14.01" />
+    <element name="Oxygen" z="8" symbol="O" weight="16.00" />
+    <element name="Fluorine" z="9" symbol="F" weight="19.00" />
+    <element name="Neon" z="10" symbol="Ne" weight="20.18" />
+    <element name="Sodium" z="11" symbol="Na" weight="22.99" />
+    <element name="Magnesium" z="12" symbol="Mg" weight="24.31" />
+    <element name="Aluminum" z="13" symbol="Al" weight="26.98" />
+    <element name="Silicon" z="14" symbol="Si" weight="28.09" />
+    <element name="Phosphorus" z="15" symbol="P" weight="30.98" />
+    <element name="Sulfur" z="16" symbol="S" weight="32.06" />
+    <element name="Chlorine" z="17" symbol="Cl" weight="35.45" />
+    <element name="Argon" z="18" symbol="Ar" weight="39.95" />
+    <element name="Potassium" z="19" symbol="K" weight="39.10" />
+    <element name="Calcium" z="20" symbol="Ca" weight="40.08" />
+    <element name="Scandium" z="21" symbol="Sc" weight="44.96" />
+    <element name="Titanium" z="22" symbol="Ti" weight="47.90" />
+    <element name="Vanadium" z="23" symbol="V" weight="50.94" />
+    <element name="Chromium" z="24" symbol="Cr" weight="52.00" />
+    <element name="Manganese" z="25" symbol="Mn" weight="54.94" />
+    <element name="Iron" z="26" symbol="Fe" weight="55.85" />
+    <element name="Cobalt" z="27" symbol="Co" weight="58.93" />
+    <element name="Nickel" z="28" symbol="Ni" weight="58.71" />
+    <element name="Copper" z="29" symbol="Cu" weight="63.54" />
+    <element name="Zinc" z="30" symbol="Zn" weight="65.37" />
+    <element name="Gallium" z="31" symbol="Ga" weight="69.72" />
+    <element name="Germanium" z="32" symbol="Ge" weight="72.59" />
+    <element name="Arsenic" z="33" symbol="As" weight="74.99" />
+    <element name="Selenium" z="34" symbol="Se" weight="78.96" />
+    <element name="Bromine" z="35" symbol="Br" weight="79.91" />
+    <element name="Krypton" z="36" symbol="Kr" weight="83.80" />
+    <element name="Rubidium" z="37" symbol="Rb" weight="85.47" />
+    <element name="Strontium" z="38" symbol="Sr" weight="87.62" />
+    <element name="Yttrium" z="39" symbol="Y" weight="88.91" />
+    <element name="Zirconium" z="40" symbol="Zr" weight="91.22" />
+    <element name="Niobium" z="41" symbol="Nb" weight="92.91" />
+    <element name="Molybdenum" z="42" symbol="Mo" weight="95.94" />
+    <element name="Technetium" z="43" symbol="Tc" weight="96.91" />
+    <element name="Ruthenium" z="44" symbol="Ru" weight="101.07" />
+    <element name="Rhodium" z="45" symbol="Rh" weight="102.90" />
+    <element name="Palladium" z="46" symbol="Pd" weight="106.40" />
+    <element name="Silver" z="47" symbol="Ag" weight="107.87" />
+    <element name="Cadmium" z="48" symbol="Cd" weight="112.40" />
+    <element name="Indium" z="49" symbol="In" weight="114.82" />
+    <element name="Tin" z="50" symbol="Sn" weight="118.69" />
+    <element name="Antimony" z="51" symbol="Sb" weight="121.75" />
+    <element name="Tellurium" z="52" symbol="Te" weight="127.60" />
+    <element name="Iodine" z="53" symbol="I" weight="126.90" />
+    <element name="Xenon" z="54" symbol="Xe" weight="131.30" />
+    <element name="Cesium" z="55" symbol="Cs" weight="132.90" />
+    <element name="Barium" z="56" symbol="Ba" weight="137.34" />
+    <element name="Lanthanum" z="57" symbol="La" weight="138.91" />
+    <element name="Cerium" z="58" symbol="Ce" weight="140.12" />
+    <element name="Praseodymium" z="59" symbol="Pr" weight="140.91" />
+    <element name="Neodymium" z="60" symbol="Nd" weight="144.24" />
+    <element name="Promethium" z="61" symbol="Pm" weight="144.91" />
+    <element name="Samarium" z="62" symbol="Sm" weight="150.35" />
+    <element name="Europium" z="63" symbol="Eu" weight="151.96" />
+    <element name="Gadolinium" z="64" symbol="Gd" weight="157.25" />
+    <element name="Terbium" z="65" symbol="Tb" weight="158.92" />
+    <element name="Dysprosium" z="66" symbol="Dy" weight="162.50" />
+    <element name="Holmium" z="67" symbol="Ho" weight="164.93" />
+    <element name="Erbium" z="68" symbol="Er" weight="167.26" />
+    <element name="Thulium" z="69" symbol="Tm" weight="168.93" />
+    <element name="Ytterbium" z="70" symbol="Yb" weight="173.04" />
+    <element name="Lutetium" z="71" symbol="Lu" weight="174.97" />
+    <element name="Hafnium" z="72" symbol="Hf" weight="178.49" />
+    <element name="Tantalum" z="73" symbol="Ta" weight="180.95" />
+    <element name="Wolfram" z="74" symbol="W" weight="183.85" />
+    <element name="Rhenium" z="75" symbol="Re" weight="186.20" />
+    <element name="Osmium" z="76" symbol="Os" weight="190.20" />
+    <element name="Iridium" z="77" symbol="Ir" weight="192.22" />
+    <element name="Platinum" z="78" symbol="Pt" weight="195.09" />
+    <element name="Gold" z="79" symbol="Au" weight="196.97" />
+    <element name="Mercury" z="80" symbol="Hg" weight="200.59" />
+    <element name="Thallium" z="81" symbol="Tl" weight="204.37" />
+    <element name="Lead" z="82" symbol="Pb" weight="207.19" />
+    <element name="Bismuth" z="83" symbol="Bi" weight="208.98" />
+    <element name="Polonium" z="84" symbol="Po" weight="208.98" />
+    <element name="Astatine" z="85" symbol="At" weight="209.99" />
+    <element name="Radon" z="86" symbol="Rn" weight="222.02" />
+    <element name="Francium" z="87" symbol="Fr" weight="223.02" />
+    <element name="Radium" z="88" symbol="Ra" weight="226.00" />
+    <element name="Actinium" z="89" symbol="Ac" weight="227.03" />
+    <element name="Thorium" z="90" symbol="Th" weight="232.04" />
+    <element name="Protactinium" z="91" symbol="Pa" weight="231.04" />
+    <element name="Uranium" z="92" symbol="U" weight="238.03" />
+    <element name="Neptunium" z="93" symbol="Np" weight="237.00" />
+    <element name="Plutonium" z="94" symbol="Pu" weight="242.00" />
+    <element name="Americium" z="95" symbol="Am" weight="243.06" />
+    <element name="Curium" z="96" symbol="Cm" weight="247.07" />
+    <element name="Berkelium" z="97" symbol="Bk" weight="247.07" />
+    <element name="Californium" z="98" symbol="Cf" weight="251.08" />
+    <element name="Einsteinium" z="99" symbol="Es" weight="254.09" />
+    <element name="Fermium" z="100" symbol="Fm" weight="257.10" />
+    <element name="Mendelevium" z="101" symbol="Md" weight="257.10" />
+    <element name="Nobelium" z="102" symbol="No" weight="255.09" />
+    <element name="Lawrencium" z="103" symbol="Lr" weight="256.10" />
+</elements>
+<!-- 
+$Log: elements.xml,v $
+Revision 1.4  2009-03-10 18:39:52  aryjr
+Adicionando o deuterio a lista de elementos. O impacto ainda nao foi verificado.
+
+Revision 1.3  2008-10-02 19:10:57  aryjr
+Keyword Log no final dos arquivos.
+
+
+-->

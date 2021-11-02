@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 
+Group theory symmetry operations.
+@author Ary Junior <a href="mailto:aryjunior@gmail.com">aryjunior@gmail.com</a>
+@version $Id: symmetry-operations.xml,v 1.2 2008-10-02 19:10:57 aryjr Exp $
+-->
+
+<symmetry-operations>
+    <symmetry-operation name="Identity" symbol="E"/>
+    <symmetry-operation name="Proper axes of rotation (Cn)" symbol="Cn"/>
+    <symmetry-operation name="Inversion" symbol="i"/>
+    <symmetry-operation name="Reflection" symbol="Sigma-h"/>
+    <symmetry-operation name="Improper axis (Sn)" symbol="Sn"/>
+</symmetry-operations>
+<!-- 
+$Log: symmetry-operations.xml,v $
+Revision 1.2  2008-10-02 19:10:57  aryjr
+Keyword Log no final dos arquivos.
+
+
+-->
