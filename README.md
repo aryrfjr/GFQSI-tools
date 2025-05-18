@@ -1,4 +1,4 @@
 # GFQSI-tools
-Tools used by me and other researchers (all developed by myself) over my research in the Department of Chemistry at UFJF (Brazil).
+Tools (all developed by myself) used by me and other researchers over my experience in the Department of Chemistry at UFJF (Brazil). 
 
 **NOTE**: see the code in the branch master.
